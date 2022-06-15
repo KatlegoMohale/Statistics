@@ -1,6 +1,12 @@
-# Basic Statistical concepts in: 
+# Statistical concepts in: 
 
-<a href="https://github.com/KatlegoMohale/Statistics/tree/main/RStudio">RStudio</a>
+** RStudio
+** SAS
+** Python
 <br>
-<a href="https://github.com/KatlegoMohale/Statistics/tree/main/SAS">SAS</a>
+
+OLS regression and estimation:
+
+the main purpuse of OLS method is to estimate the best combination of Beta1_hat and beta2_hat values that results in the smallest sum of residuals squared.
+
 
