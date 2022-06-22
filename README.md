@@ -1,8 +1,8 @@
 # Statistical concepts in: 
 
-** RStudio
-** SAS
-** Python
+- RStudio
+- SAS
+- Python
 <br>
 
 OLS regression and estimation:
